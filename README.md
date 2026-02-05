@@ -1,7 +1,5 @@
 # Deloitte-Data-Analytics-Job-Simulation
 
-This contains my work for the Deloitte Data Analytics Virtual Internship hosted on Forage.
-
 # Deloitte Data Analytics Virtual Experience (Forage)
 
 ## Overview
